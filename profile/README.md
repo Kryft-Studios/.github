@@ -11,7 +11,7 @@
 | **@briklab/lib/jstc**       | Runtime JS/TS type checking with minimal overhead                   | 🟢 Active |
 | **@briklab/lib/stylesheet** | Inline CSS styles and style sheets for JS/TS projects               | 🟢 Active |
 | **@briklab/parsee**         | Fast and simple JS/TS parser with JSDoc access                      | 🟢 Active |
-| **@briklab/std**            | Standardized utilities and helpers for Node.js projects             | 🟡 WIP    |
+| **@briklab/quill**          | An easy way to create api docs                                      | 🟡 WIP    |
 
 # License
 All Kryft Studios Tools are licensed under **Apache 2.0** unless noted.
