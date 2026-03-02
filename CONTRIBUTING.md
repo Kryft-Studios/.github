@@ -1,4 +1,4 @@
-# Contributing to CONTRIBUTING.md
+# Contributing to Kryft Studios
 
 First off, thanks for taking the time to contribute! 
 
@@ -30,12 +30,13 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 This project and everyone participating in it is governed by the
 [CONTRIBUTING.md Code of Conduct](blob/master/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
-to <>.
+to [@EkaanshPC](https://github.com/EkaanshPC), or alternatively, [@YTCaplente](https://github.com/YTCaplente).
 
 
 ## I Have a Question
 
 > If you want to ask a question, we assume that you have read the available [Documentation]().
+> **Warning:** Documentation not yet available
 
 Before you ask a question, it is best to search for existing [Issues](/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
 
@@ -55,7 +56,8 @@ We will then take care of the issue as soon as possible.
 > When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
 
 ### Reporting Bugs
-
+To report bugs, email the following:
+* Main Outlook: [KryftStudios@outlook.com]()
 
 #### Before Submitting a Bug Report
 
@@ -75,7 +77,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 #### How Do I Submit a Good Bug Report?
 
-> You must never report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to <>.
+> You must never report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to [KryftStudios@outlook.com]().
 
 
 We use GitHub issues to track bugs and errors. If you run into an issue with the project:
@@ -115,7 +117,7 @@ Enhancement suggestions are tracked as [GitHub issues](/issues).
 - Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
 - **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
 - You may want to **include screenshots and animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux. 
-- **Explain why this enhancement would be useful** to most CONTRIBUTING.md users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
+- **Explain why this enhancement would be useful** to most Kryft Studios users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
 
 ## Attribution
 This guide is based on the **contributing.md**. [Make your own](https://contributing.md/)!
