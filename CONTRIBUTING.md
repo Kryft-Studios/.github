@@ -57,7 +57,7 @@ We will then take care of the issue as soon as possible.
 
 ### Reporting Bugs
 To report bugs, email the following:
-* Main Outlook: [KryftStudios@outlook.com]()
+* Main Outlook: [AfriaStudios@outlook.in]()
 
 #### Before Submitting a Bug Report
 
