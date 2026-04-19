@@ -1,6 +1,6 @@
 
 # About Us
-**Kryft Studios** is a studios fueled with curiosity; We are the same organisation behind **briklab** and **andromeda-gpu**
+**Kryft Studios** is a studios fueled with curiosity; We are the same organisation behind **briklab** (WIP) and **andromeda-gpu** (WIP)
 
 
 # Our Tools
